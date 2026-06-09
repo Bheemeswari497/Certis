@@ -1,26 +1,55 @@
 # 📚 Learning Portfolio
 
-This repository documents my continuous learning journey and professional development across various domains in technology and software engineering.
+A collection of my learning achievements, certifications, and milestones gained through continuous skill development in technology and software engineering.
 
-## 🎯 Areas of Learning
+---
 
-* Artificial Intelligence & Machine Learning
-* Full-Stack Web Development
-* Data Structures & Algorithms
-* Programming & Software Development
-* Database Management Systems
-* Operating Systems
-* Data Science & Analytics
+## 🎯 Learning Domains
+
+### 🤖 Artificial Intelligence & Emerging Technologies
+
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
 * Computer Vision
 * Natural Language Processing
-* Prompt Engineering & Generative AI
+* Generative AI
+
+### 💻 Software Development
+
+* Full Stack Web Development
+* Frontend Development
+* Backend Development
+* Application Development
+
+### 🧠 Programming & Problem Solving
+
+* Programming Fundamentals
+* Data Structures & Algorithms
+* Problem Solving Skills
+
+### 🗄️ Computer Science Fundamentals
+
+* Database Management Systems
+* Operating Systems
+* Core Computer Science Concepts
+
+### 📊 Data & Analytics
+
+* Data Science
+* Data Analysis
+* Data-Driven Technologies
+
+---
 
 ## 🚀 Purpose
 
-This repository serves as a collection of learning achievements and milestones that reflect my commitment to continuous improvement, technical growth, and staying current with emerging technologies.
+This repository represents my continuous learning journey and showcases my dedication toward improving technical skills through various courses, certifications, and practical learning.
 
-## 🌱 Learning Mindset
+---
 
-I believe in learning through consistency, curiosity, and practical application. Every milestone in this repository represents a step toward becoming a skilled software engineer and AI professional.
+## 🌱 Growth Mindset
 
-> "The more I learn, the more I realize how much there is to explore."
+Learning consistently, exploring new technologies, and applying knowledge through real-world projects to grow as a Software Engineer and AI professional.
+
+> "Consistency in learning creates excellence over time." 🚀
