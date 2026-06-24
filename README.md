@@ -1,55 +1,116 @@
-# 📚 Learning Portfolio
+# 📚 Certifications & Learning Portfolio
 
-A collection of my learning achievements, certifications, and milestones gained through continuous skill development in technology and software engineering.
+Welcome to my Certifications Repository 🚀
+
+This repository showcases my continuous learning journey, professional certifications, and skill development across multiple areas of Computer Science, Artificial Intelligence, and Software Engineering.
 
 ---
 
-## 🎯 Learning Domains
+## 🎯 Certification Categories
 
-### 🤖 Artificial Intelligence & Emerging Technologies
+### 🤖 Artificial Intelligence & Machine Learning
 
 * Artificial Intelligence
-* Machine Learning
-* Deep Learning
+* Machine Learning Fundamentals
+* Deep Learning Concepts
 * Computer Vision
 * Natural Language Processing
 * Generative AI
+* Prompt Engineering
 
-### 💻 Software Development
+---
 
-* Full Stack Web Development
-* Frontend Development
-* Backend Development
-* Application Development
+### 💻 Full Stack Web Development
+
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+
+---
 
 ### 🧠 Programming & Problem Solving
 
-* Programming Fundamentals
+* Python Programming
 * Data Structures & Algorithms
-* Problem Solving Skills
+* Problem Solving
+* Logical Thinking
+
+---
 
 ### 🗄️ Computer Science Fundamentals
 
 * Database Management Systems
 * Operating Systems
-* Core Computer Science Concepts
+* PL/SQL
+* Core CS Concepts
+
+---
 
 ### 📊 Data & Analytics
 
 * Data Science
 * Data Analysis
-* Data-Driven Technologies
+* Data Visualization
+
+---
+
+## 📂 Repository Structure
+
+```
+Certis/
+
+├── Coursera/
+│   └── Course Certificates
+│
+├── infosys/
+│   ├── AI Certificates
+│   ├── Web Development Certificates
+│   ├── CS Fundamentals Certificates
+│   └── Programming Certificates
+│
+└── README.md
+```
 
 ---
 
 ## 🚀 Purpose
 
-This repository represents my continuous learning journey and showcases my dedication toward improving technical skills through various courses, certifications, and practical learning.
+The purpose of this repository is to maintain a structured collection of my learning achievements and demonstrate my commitment toward continuous growth in technology.
+
+Each certification represents progress in improving my knowledge, technical skills, and practical understanding.
 
 ---
 
-## 🌱 Growth Mindset
+## 🌱 Learning Goals
 
-Learning consistently, exploring new technologies, and applying knowledge through real-world projects to grow as a Software Engineer and AI professional.
+* Build strong software development skills
+* Explore Artificial Intelligence technologies
+* Strengthen problem-solving abilities
+* Develop industry-ready technical knowledge
+* Keep learning and improving consistently
 
-> "Consistency in learning creates excellence over time." 🚀
+---
+
+## 👩‍💻 About Me
+
+I am an Artificial Intelligence & Machine Learning student passionate about:
+
+* AI & Emerging Technologies
+* Full Stack Development
+* Data Structures & Algorithms
+* Building Real-World Projects
+
+---
+
+## ⭐ Motto
+
+> "Consistency, curiosity, and continuous learning create excellence over time." 🚀
+
+---
+
+⭐ This repository grows with every new learning milestone.
