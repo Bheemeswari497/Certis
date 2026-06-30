@@ -1,26 +1,71 @@
-# 📚 Certifications & Learning Portfolio
+# 📚 Certis – Certifications & Learning Portfolio
 
-Welcome to my Certifications Repository 🚀
+Welcome to **Certis**, my personal learning portfolio that showcases my certifications, completed courses, and continuous learning journey in Computer Science, Artificial Intelligence, and Software Development.
 
-This repository showcases my continuous learning journey, professional certifications, and skill development across multiple areas of Computer Science, Artificial Intelligence, and Software Engineering.
+This repository serves as a centralized collection of my learning achievements from various online learning platforms and training programs.
 
 ---
 
-## 🎯 Certification Categories
+# 🎯 Repository Highlights
 
-### 🤖 Artificial Intelligence & Machine Learning
+* 📜 Professional Certifications
+* 🤖 Artificial Intelligence & Machine Learning
+* 💻 Full Stack Web Development
+* 🧠 Programming & Problem Solving
+* 🗄️ Database & Computer Science Fundamentals
+* 📊 Data Science & Analytics
+* 🚀 Continuous Learning Journey
+
+---
+
+# 📂 Repository Structure
+
+```text
+Certis/
+│
+├── Coursera/
+│   ├── Course Certificates
+│   └── Professional Certificates
+│
+├── infosys/
+│   ├── Artificial Intelligence
+│   ├── Machine Learning
+│   ├── Computer Vision
+│   ├── NLP
+│   ├── HTML
+│   ├── CSS
+│   ├── JavaScript
+│   ├── TypeScript
+│   ├── React.js
+│   ├── Node.js
+│   ├── Express.js
+│   ├── MongoDB
+│   ├── Python
+│   ├── DBMS
+│   ├── Operating Systems
+│   └── PL/SQL
+│
+└── README.md
+```
+
+---
+
+# 🏆 Skills Covered
+
+## 🤖 Artificial Intelligence
 
 * Artificial Intelligence
-* Machine Learning Fundamentals
-* Deep Learning Concepts
+* Machine Learning
+* Deep Learning
 * Computer Vision
 * Natural Language Processing
-* Generative AI
 * Prompt Engineering
+* Generative AI
+* Robotics
 
 ---
 
-### 💻 Full Stack Web Development
+## 💻 Full Stack Development
 
 * HTML5
 * CSS3
@@ -33,25 +78,25 @@ This repository showcases my continuous learning journey, professional certifica
 
 ---
 
-### 🧠 Programming & Problem Solving
+## 🧠 Programming
 
-* Python Programming
-* Data Structures & Algorithms
+* Python
 * Problem Solving
-* Logical Thinking
+* Data Structures
+* Algorithms
 
 ---
 
-### 🗄️ Computer Science Fundamentals
+## 🗄️ Computer Science
 
 * Database Management Systems
 * Operating Systems
 * PL/SQL
-* Core CS Concepts
+* Core CS Fundamentals
 
 ---
 
-### 📊 Data & Analytics
+## 📊 Data & Analytics
 
 * Data Science
 * Data Analysis
@@ -59,58 +104,61 @@ This repository showcases my continuous learning journey, professional certifica
 
 ---
 
-## 📂 Repository Structure
+# 🚀 Purpose
 
-```
-Certis/
+This repository documents my continuous learning journey and demonstrates my commitment to improving technical knowledge through certifications, online courses, and practical learning.
 
-├── Coursera/
-│   └── Course Certificates
-│
-├── infosys/
-│   ├── AI Certificates
-│   ├── Web Development Certificates
-│   ├── CS Fundamentals Certificates
-│   └── Programming Certificates
-│
-└── README.md
-```
+Each certificate represents a milestone in developing industry-ready software engineering and AI skills.
 
 ---
 
-## 🚀 Purpose
+# 🌱 Current Learning Focus
 
-The purpose of this repository is to maintain a structured collection of my learning achievements and demonstrate my commitment toward continuous growth in technology.
-
-Each certification represents progress in improving my knowledge, technical skills, and practical understanding.
-
----
-
-## 🌱 Learning Goals
-
-* Build strong software development skills
-* Explore Artificial Intelligence technologies
-* Strengthen problem-solving abilities
-* Develop industry-ready technical knowledge
-* Keep learning and improving consistently
-
----
-
-## 👩‍💻 About Me
-
-I am an Artificial Intelligence & Machine Learning student passionate about:
-
-* AI & Emerging Technologies
-* Full Stack Development
+* Artificial Intelligence
+* Machine Learning
+* Full Stack Web Development
 * Data Structures & Algorithms
-* Building Real-World Projects
+* System Design
+* Backend Development
+* Cloud Computing
 
 ---
 
-## ⭐ Motto
+# 👩‍💻 About Me
 
-> "Consistency, curiosity, and continuous learning create excellence over time." 🚀
+**Oduri Bheemeswari**
+
+* AIML Undergraduate
+* Full Stack Developer
+* AI & Machine Learning Enthusiast
+* Open Source Contributor
+* Continuous Learner
 
 ---
 
-⭐ This repository grows with every new learning milestone.
+# 📈 Goals
+
+* Earn industry-recognized certifications
+* Build real-world software projects
+* Strengthen AI and Full Stack skills
+* Contribute to Open Source
+* Maintain a consistent learning habit
+
+---
+
+# ⭐ Quote
+
+> *"Learning never stops. Every certificate represents another step toward becoming a better engineer."*
+
+---
+
+## 📌 Repository Status
+
+* ✅ Regularly Updated
+* ✅ New Certificates Added Frequently
+* ✅ Organized by Learning Platform
+* ✅ Professional Portfolio Repository
+
+---
+
+### ⭐ Thank you for visiting my Certifications Repository!
