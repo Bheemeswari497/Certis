@@ -80,7 +80,7 @@ Certis/
 
 ## 🧠 Programming
 
-*java
+* java
 * Python
 * Problem Solving
 * Data Structures
