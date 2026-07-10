@@ -80,6 +80,7 @@ Certis/
 
 ## 🧠 Programming
 
+* CPP
 * java
 * Python
 * Problem Solving
