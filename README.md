@@ -7,7 +7,6 @@ This repository serves as a centralized collection of my learning achievements f
 ---
 
 # 🎯 Repository Highlights
-
 * 📜 Professional Certifications
 * 🤖 Artificial Intelligence & Machine Learning
 * 💻 Full Stack Web Development
