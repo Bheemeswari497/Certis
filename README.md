@@ -12,7 +12,6 @@ This repository serves as a centralized collection of my learning achievements f
 * 💻 Full Stack Web Development
 * 🧠 Programming & Problem Solving
 * 🗄️ Database & Computer Science Fundamentals
-* 📊 Data Science & Analytics
 * 🚀 Continuous Learning Journey
 
 ---
